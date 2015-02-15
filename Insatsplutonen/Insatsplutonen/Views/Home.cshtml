@@ -1,0 +1,74 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "Master.cshtml";
+}
+<div id="content-wrapper">
+	<div class="fullwidth">
+
+        <div class="flexslider" id="index-slider">
+
+            <ul class="slides">
+                <li>
+                    <a href="#"><img src="media/1056/start2.jpg" alt="" /></a>
+                    <div class="flex-caption transparent light-font">
+                        <div>
+                            <h2><span class="uppercase">Grupps strid, Hamburger hill</span></h2>
+                            <p><span class="lowercase">Här kan man skriva något mer vettigt</span></p>
+                            <p><a href="#" class="button medium green">Läs vår blog</a></p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <a href="#"><img src="media/1066/start1.jpg" alt="" /></a>
+                    <div class="flex-caption transparent light-font center">
+                        <div>
+                            <h2><span class="uppercase">Alpha Quebec - Malmö, 2013</span></h2>
+                            <p><span class="lowercase">Här kan man skriva något mer vettigt</span></p>
+                            <p><a href="#" class="button medium grey">Vilka är vi?</a></p>
+                        </div>
+                    </div>
+                </li>
+
+                <li>
+                    <a href="#"><img src="media/1056/start2.jpg" alt="" /></a>
+                    <div class="flex-caption dark center">
+                        <div>
+                            <h2><span class="uppercase">Här kan man skriva något mer vettigt</span></h2>
+                            <p><span class="lowercase">Här kan man skriva något mer vettigt</span></p>
+                            <p><a href="#" class="button medium grey">Intresserad?</a></p>
+                        </div>
+                    </div>
+                </li>
+
+                <li>
+                    <a href="#"><img src="media/1066/start1.jpg" alt="" /></a>
+                    <div class="flex-caption light">
+                        <div>
+                            <h2><span class="uppercase">Här kan man skriva något mer vettigt</span></h2>
+                            <p><span class="lowercase">Här kan man skriva något mer vettigt</span></p>
+                            <p><a href="#" class="button medium grey">Vilka är vi?</a></p>
+                        </div>
+                    </div>
+                </li>
+
+            </ul><!--END UL SLIDES-->
+
+        </div><!--END FLEXSLIDER-->
+
+    </div><!--END FULLWIDTH-->
+	@CurrentPage.GetGridHtml("content", "fanoe")
+</div>
+@section scripts{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#index-slider').flexslider({
+                animation: "fade",
+                slideDirection: "",
+                slideshowSpeed: 3500,
+                animationDuration: 500,
+                pauseOnHover: true,
+                smoothHeight: true
+            });
+        });
+    </script>
+}

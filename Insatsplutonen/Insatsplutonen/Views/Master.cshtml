@@ -1,0 +1,83 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = null;
+	var home = @CurrentPage.Site();
+}
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Meta tags -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="@CurrentPage.siteDescription">
+
+    <title>@CurrentPage.Name | @CurrentPage._siteTitle</title>
+	
+	<!-- Fonts -->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700italic,700,800,800italic,300italic,300' rel='stylesheet' type='text/css'>
+	
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+	<link rel="stylesheet" type="text/css" href="/css/blog.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="/css/responsive.css" media="screen" />    
+	
+	<link rel="stylesheet" href="/css/prettyPhoto.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/css/flexslider.css" type="text/css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="/css/bxslider.css">
+	
+	
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body id="top">
+	<div id="wrapper">
+		<div id="header-wrapper">
+			<div class="header clear">
+				<div id="logo">
+					<a href="/"><img style="margin-top: -15px; height: 45px;"src="/media/1050/insatspluton12.png" alt="" /></a>
+				</div><!--END LOGO-->		
+			@{ Html.RenderPartial("MainNavigation"); }
+			</div><!--END HEADER-->
+		</div><!--END HEADER-WRAPPER-->
+		
+		@RenderBody()
+	</div>
+	<a href="#" id="back-top">Top</a> 
+    <div id="footer">
+		@{ Html.RenderPartial("BottomNavigation"); }
+    </div>
+   
+    
+    <!-- Javascripts -->
+    <script src="/js/jquery.min.js"></script>	
+	@RenderSection("scripts", required: false)
+    <script src="/scripts/custom.js"></script>
+	<script src="/scripts/header.js"></script>
+		    
+	<!-- PrettyPhoto -->
+    <script type="text/javascript" src="/scripts/prettyPhoto.js"></script>
+
+    <!-- Photostream Javascript -->
+    <script type="text/javascript" src="/scripts/bra_photostream_plugin.js"></script>
+
+    <!-- Masonry Javascript File -->
+    <script type="text/javascript" src="/scripts/jquery.isotope.min.js"></script>
+    <script type="text/javascript" src="/scripts/javascript/toucheffects.js"></script>
+    
+    <!-- bxSlider Javascript file -->
+    <script src="/scripts/jquery.bxslider.min.js"></script>
+
+    <!-- Flexslider JavaScript Files -->
+    <script type="text/javascript" src="/scripts/jquery.flexslider.js"></script>
+		
+  </body>
+</html>

@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<map>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjb19jbGllbnQvdHJlZS90cmVlaWNvbnMuY3NzOw" file="c:\users\devharis\documents\visual studio 2013\Projects\Insatsplutonen\Insatsplutonen\App_Data\TEMP\ClientDependency\1701438236_377d06f3bce84af8a853dc468c7bd486.cdC" compression="gzip" version="1701438236">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco_client/tree/treeicons.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnktMi4wLjMubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLzEuMS41L2FuZ3VsYXIubWluLmpzOy91bWJyYWNvL2xpYi91bmRlcnNjb3JlL3VuZGVyc2NvcmUuanM7L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnktdWktMS4xMC4zLmN1c3RvbS5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvMS4xLjUvYW5ndWxhci1jb29raWVzLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci8xLjEuNS9hbmd1bGFyLW1vYmlsZS5qczsvdW1icmFjby9saWIvYW5ndWxhci8xLjEuNS9hbmd1bGFyLXNhbml0aXplLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci9hbmd1bGFyLXVpLXNvcnRhYmxlLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyL3RtaER5bmFtaWNMb2NhbGUuanM7L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkudXBsb2FkL2pzL2pxdWVyeS5maWxldXBsb2FkLmpzOy91bWJyYWNvL2xpYi9qcXVlcnkvanF1ZXJ5LnVwbG9hZC9qcy9sb2FkLWltYWdlLm1pbi5qczsvdW1icmFjby9saWIvanF1ZXJ5L2pxdWVyeS51cGxvYWQvanMvanF1ZXJ5LmZpbGV1cGxvYWQtcHJvY2Vzcy5qczsvdW1icmFjby9saWIvanF1ZXJ5L2pxdWVyeS51cGxvYWQvanMvanF1ZXJ5LmZpbGV1cGxvYWQtaW1hZ2UuanM7L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkudXBsb2FkL2pzL2pxdWVyeS5maWxldXBsb2FkLWFuZ3VsYXIuanM7L3VtYnJhY28vbGliL2Jvb3RzdHJhcC9qcy9ib290c3RyYXAuMi4zLjIubWluLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL0V4dGVuc2lvbnMuanM7L3VtYnJhY28vbGliL3VtYnJhY28vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjby9saWIvdW1icmFjby9MZWdhY3lVbWJDbGllbnRNZ3IuanM7L3VtYnJhY28vbGliL3VtYnJhY28vTGVnYWN5U3BlZWNoQnViYmxlLmpzOy91bWJyYWNvL2pzL2FwcC5qczsvdW1icmFjby9qcy91bWJyYWNvLnJlc291cmNlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLmRpcmVjdGl2ZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5maWx0ZXJzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uc2VydmljZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5zZWN1cml0eS5qczsvdW1icmFjby9qcy91bWJyYWNvLmNvbnRyb2xsZXJzLmpzOy91bWJyYWNvL2pzL3JvdXRlcy5qczsvdW1icmFjby9qcy9pbml0LmpzOy91bWJyYWNvL2RldmVsb3Blci9SZWxhdGlvblR5cGVzL1RyZWVNZW51L0FjdGlvbkRlbGV0ZVJlbGF0aW9uVHlwZS5qczsvdW1icmFjby9kZXZlbG9wZXIvUmVsYXRpb25UeXBlcy9UcmVlTWVudS9BY3Rpb25OZXdSZWxhdGlvblR5cGUuanM7" file="c:\users\devharis\documents\visual studio 2013\Projects\Insatsplutonen\Insatsplutonen\App_Data\TEMP\ClientDependency\1701438236_55d0656f12c54c72bb2e30e281e6529b.cdJ" compression="gzip" version="1701438236">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery-2.0.3.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular.min.js" />
+      <file name="/umbraco/lib/underscore/underscore.js" />
+      <file name="/umbraco/lib/jquery/jquery-ui-1.10.3.custom.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-cookies.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-mobile.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-sanitize.min.js" />
+      <file name="/umbraco/lib/angular/angular-ui-sortable.js" />
+      <file name="/umbraco/lib/angular/tmhDynamicLocale.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/load-image.min.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload-process.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload-image.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload-angular.js" />
+      <file name="/umbraco/lib/bootstrap/js/bootstrap.2.3.2.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacyUmbClientMgr.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.security.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+      <file name="/umbraco/developer/RelationTypes/TreeMenu/ActionDeleteRelationType.js" />
+      <file name="/umbraco/developer/RelationTypes/TreeMenu/ActionNewRelationType.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczs" file="c:\users\devharis\documents\visual studio 2013\Projects\Insatsplutonen\Insatsplutonen\App_Data\TEMP\ClientDependency\1701438236_5ead40ddb9984d06a70208e4e7c0e6fc.cdC" compression="gzip" version="1701438236">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29VdGlscy5qczsvdW1icmFjb19jbGllbnQvdWkvanNvbjIuanM7L3VtYnJhY29fY2xpZW50L3VpL2Jhc2UyLmpzOy91bWJyYWNvX2NsaWVudC9VSS9rbm9ja291dC5qczsvdW1icmFjb19jbGllbnQvVUkva25vY2tvdXQubWFwcGluZy5qczs" file="c:\users\devharis\documents\visual studio 2013\Projects\Insatsplutonen\Insatsplutonen\App_Data\TEMP\ClientDependency\1701438236_9ee64bd0bed14396bd834a9f5886b176.cdJ" compression="gzip" version="1701438236">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/ui/json2.js" />
+      <file name="/umbraco_client/ui/base2.js" />
+      <file name="/umbraco_client/UI/knockout.js" />
+      <file name="/umbraco_client/UI/knockout.mapping.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7" file="c:\users\devharis\documents\visual studio 2013\Projects\Insatsplutonen\Insatsplutonen\App_Data\TEMP\ClientDependency\1701438236_96b8a16ab21f441cbca7971dadccd907.cdJ" compression="gzip" version="1701438236">
+    <files>
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0V4dGVuc2lvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0hpc3RvcnlNYW5hZ2VyLmpzOw" file="c:\users\devharis\documents\visual studio 2013\Projects\Insatsplutonen\Insatsplutonen\App_Data\TEMP\ClientDependency\1701438236_e5078c1f68d54039b19610502cb60157.cdJ" compression="gzip" version="1701438236">
+    <files>
+      <file name="/umbraco_client/Application/Extensions.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/HistoryManager.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOw" file="c:\users\devharis\documents\visual studio 2013\Projects\Insatsplutonen\Insatsplutonen\App_Data\TEMP\ClientDependency\1701438236_39f68bad8cd440009353c4db7899ad69.cdJ" compression="gzip" version="1701438236">
+    <files>
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuYmEtYmJxLm1pbi5qczsvdW1icmFjb19jbGllbnQvdWkvalF1ZXJ5V3Jlc2l6ZS5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvanF1ZXJ5LnNpbXBsZW1vZGFsLjEuNC4xLmN1c3RvbS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0pRdWVyeS9qcXVlcnkubWV0YWRhdGEubWluLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7" file="c:\users\devharis\documents\visual studio 2013\Projects\Insatsplutonen\Insatsplutonen\App_Data\TEMP\ClientDependency\1701438236_ff3c9e0b41174c5d85fd2bb027411b18.cdJ" compression="gzip" version="1701438236">
+    <files>
+      <file name="/umbraco_client/Application/jQuery/jquery.ba-bbq.min.js" />
+      <file name="/umbraco_client/ui/jQueryWresize.js" />
+      <file name="/umbraco_client/modal/jquery.simplemodal.1.4.1.custom.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/JQuery/jquery.metadata.min.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvL2xpYi9ib290c3RyYXAvanMvYm9vdHN0cmFwLjIuMy4yLm1pbi5qczsvdW1icmFjby9saWIvdW1icmFjby9jb21wYXQuanM7" file="c:\users\devharis\documents\visual studio 2013\Projects\Insatsplutonen\Insatsplutonen\App_Data\TEMP\ClientDependency\1701438236_773a5f523cd14dcc85891f2106c89c8e.cdJ" compression="gzip" version="1701438236">
+    <files>
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco/lib/bootstrap/js/bootstrap.2.3.2.min.js" />
+      <file name="/umbraco/lib/umbraco/compat.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7" file="c:\users\devharis\documents\visual studio 2013\Projects\Insatsplutonen\Insatsplutonen\App_Data\TEMP\ClientDependency\1701438236_a0fdd53d89b14aea9aba8233f2b5734d.cdC" compression="gzip" version="1701438236">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco_client/ui/default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvanMvbGliL3V0aWwvZGlhbG9nLmNzczsvdW1icmFjb19jbGllbnQvQ29kZU1pcnJvci9qcy9saWIvY29kZW1pcnJvci5jc3M7L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvY3NzL3VtYnJhY29DdXN0b20uY3NzOy91bWJyYWNvX2NsaWVudC9Db2RlQXJlYS9zdHlsZXMuY3NzOy91bWJyYWNvL2Fzc2V0cy9jc3MvdW1icmFjby5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc3BsaXRidXR0b24vc3BsaXRidXR0b24uY3NzOw" file="c:\users\devharis\documents\visual studio 2013\Projects\Insatsplutonen\Insatsplutonen\App_Data\TEMP\ClientDependency\1701438236_b8317a846747472592182d107009b3fe.cdC" compression="gzip" version="1701438236">
+    <files>
+      <file name="/umbraco_client/CodeMirror/js/lib/util/dialog.css" />
+      <file name="/umbraco_client/CodeMirror/js/lib/codemirror.css" />
+      <file name="/umbraco_client/CodeMirror/css/umbracoCustom.css" />
+      <file name="/umbraco_client/CodeArea/styles.css" />
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco_client/menuicon/style.css" />
+      <file name="/umbraco_client/splitbutton/splitbutton.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvanMvbGliL2NvZGVtaXJyb3IuanM7L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvanMvbW9kZS9yYXpvci9yYXpvci5qczsvdW1icmFjb19jbGllbnQvQ29kZU1pcnJvci9qcy9saWIvdXRpbC9zZWFyY2guanM7L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvanMvbGliL3V0aWwvc2VhcmNoY3Vyc29yLmpzOy91bWJyYWNvX2NsaWVudC9Db2RlTWlycm9yL2pzL2xpYi91dGlsL2RpYWxvZy5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY28vbGliL2Jvb3RzdHJhcC9qcy9ib290c3RyYXAuMi4zLjIubWluLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL2NvbXBhdC5qczsvdW1icmFjb19jbGllbnQvRWRpdG9ycy9FZGl0Vmlldy5qczsvdW1icmFjb19jbGllbnQvc3BsaXRidXR0b24vanF1ZXJ5LnNwbGl0YnV0dG9uLmpzOy91bWJyYWNvX2NsaWVudC9Db2RlQXJlYS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9Db2RlQXJlYS9VbWJyYWNvRWRpdG9yLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LWZpZWxkc2VsZWN0aW9uLmpzOy91bWJyYWNvX2NsaWVudC9zcGxpdGJ1dHRvbi9JbnNlcnRNYWNyb1NwbGl0QnV0dG9uLmpzOw" file="c:\users\devharis\documents\visual studio 2013\Projects\Insatsplutonen\Insatsplutonen\App_Data\TEMP\ClientDependency\1701438236_00a3867bc72943a693327b893cc46f63.cdJ" compression="gzip" version="1701438236">
+    <files>
+      <file name="/umbraco_client/CodeMirror/js/lib/codemirror.js" />
+      <file name="/umbraco_client/CodeMirror/js/mode/razor/razor.js" />
+      <file name="/umbraco_client/CodeMirror/js/lib/util/search.js" />
+      <file name="/umbraco_client/CodeMirror/js/lib/util/searchcursor.js" />
+      <file name="/umbraco_client/CodeMirror/js/lib/util/dialog.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco/lib/bootstrap/js/bootstrap.2.3.2.min.js" />
+      <file name="/umbraco/lib/umbraco/compat.js" />
+      <file name="/umbraco_client/Editors/EditView.js" />
+      <file name="/umbraco_client/splitbutton/jquery.splitbutton.js" />
+      <file name="/umbraco_client/CodeArea/javascript.js" />
+      <file name="/umbraco_client/CodeArea/UmbracoEditor.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery-fieldselection.js" />
+      <file name="/umbraco_client/splitbutton/InsertMacroSplitButton.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvanMvbGliL3V0aWwvZGlhbG9nLmNzczsvdW1icmFjb19jbGllbnQvQ29kZU1pcnJvci9qcy9saWIvY29kZW1pcnJvci5jc3M7L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvY3NzL3VtYnJhY29DdXN0b20uY3NzOy91bWJyYWNvX2NsaWVudC9Db2RlQXJlYS9zdHlsZXMuY3NzOy91bWJyYWNvL2Fzc2V0cy9jc3MvdW1icmFjby5jc3M7" file="c:\users\devharis\documents\visual studio 2013\Projects\Insatsplutonen\Insatsplutonen\App_Data\TEMP\ClientDependency\1701438236_d0e74f118d934cc587d134f2f7140270.cdC" compression="gzip" version="1701438236">
+    <files>
+      <file name="/umbraco_client/CodeMirror/js/lib/util/dialog.css" />
+      <file name="/umbraco_client/CodeMirror/js/lib/codemirror.css" />
+      <file name="/umbraco_client/CodeMirror/css/umbracoCustom.css" />
+      <file name="/umbraco_client/CodeArea/styles.css" />
+      <file name="/umbraco/assets/css/umbraco.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvanMvbGliL2NvZGVtaXJyb3IuanM7L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvanMvbW9kZS9qYXZhc2NyaXB0L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvanMvbGliL3V0aWwvc2VhcmNoLmpzOy91bWJyYWNvX2NsaWVudC9Db2RlTWlycm9yL2pzL2xpYi91dGlsL3NlYXJjaGN1cnNvci5qczsvdW1icmFjb19jbGllbnQvQ29kZU1pcnJvci9qcy9saWIvdXRpbC9kaWFsb2cuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvL2xpYi9ib290c3RyYXAvanMvYm9vdHN0cmFwLjIuMy4yLm1pbi5qczsvdW1icmFjby9saWIvdW1icmFjby9jb21wYXQuanM7L3VtYnJhY29fY2xpZW50L0VkaXRvcnMvRWRpdFNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvQ29kZUFyZWEvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvQ29kZUFyZWEvVW1icmFjb0VkaXRvci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS1maWVsZHNlbGVjdGlvbi5qczs" file="c:\users\devharis\documents\visual studio 2013\Projects\Insatsplutonen\Insatsplutonen\App_Data\TEMP\ClientDependency\1701438236_c264f70b6a6347a08a1bcd8db4e714c0.cdJ" compression="gzip" version="1701438236">
+    <files>
+      <file name="/umbraco_client/CodeMirror/js/lib/codemirror.js" />
+      <file name="/umbraco_client/CodeMirror/js/mode/javascript/javascript.js" />
+      <file name="/umbraco_client/CodeMirror/js/lib/util/search.js" />
+      <file name="/umbraco_client/CodeMirror/js/lib/util/searchcursor.js" />
+      <file name="/umbraco_client/CodeMirror/js/lib/util/dialog.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco/lib/bootstrap/js/bootstrap.2.3.2.min.js" />
+      <file name="/umbraco/lib/umbraco/compat.js" />
+      <file name="/umbraco_client/Editors/EditScript.js" />
+      <file name="/umbraco_client/CodeArea/javascript.js" />
+      <file name="/umbraco_client/CodeArea/UmbracoEditor.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery-fieldselection.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjb19jbGllbnQvR2VuZXJpY1Byb3BlcnR5L2dlbmVyaWNwcm9wZXJ0eS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RkLmNzczs" file="c:\users\devharis\documents\visual studio 2013\Projects\Insatsplutonen\Insatsplutonen\App_Data\TEMP\ClientDependency\1701438236_d61682b13b454591a8b738c4a37d7ac3.cdC" compression="gzip" version="1701438236">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco_client/GenericProperty/genericproperty.css" />
+      <file name="/umbraco_client/ui/dd.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0dlbmVyaWNQcm9wZXJ0eS9nZW5lcmljcHJvcGVydHkuanM7L3VtYnJhY29fY2xpZW50L0VkaXRvcnMvRWRpdENvbnRlbnRUeXBlLmpzOy91bWJyYWNvX2NsaWVudC91aS9qcXVlcnkuZGQuanM7" file="c:\users\devharis\documents\visual studio 2013\Projects\Insatsplutonen\Insatsplutonen\App_Data\TEMP\ClientDependency\1701438236_51c6070efb514a12b2be4c0aeb2e0399.cdJ" compression="gzip" version="1701438236">
+    <files>
+      <file name="/umbraco_client/GenericProperty/genericproperty.js" />
+      <file name="/umbraco_client/Editors/EditContentType.js" />
+      <file name="/umbraco_client/ui/jquery.dd.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7" file="c:\users\devharis\documents\visual studio 2013\Projects\Insatsplutonen\Insatsplutonen\App_Data\TEMP\ClientDependency\1701438236_027ab656e99c4214b62f1fe33034b2f8.cdJ" compression="gzip" version="1701438236">
+    <files>
+      <file name="/umbraco_client/ui/default.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvanMvbGliL2NvZGVtaXJyb3IuanM7L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvanMvbW9kZS9jc3MvY3NzLmpzOy91bWJyYWNvX2NsaWVudC9Db2RlTWlycm9yL2pzL2xpYi91dGlsL3NlYXJjaC5qczsvdW1icmFjb19jbGllbnQvQ29kZU1pcnJvci9qcy9saWIvdXRpbC9zZWFyY2hjdXJzb3IuanM7L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvanMvbGliL3V0aWwvZGlhbG9nLmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjby9saWIvYm9vdHN0cmFwL2pzL2Jvb3RzdHJhcC4yLjMuMi5taW4uanM7L3VtYnJhY28vbGliL3VtYnJhY28vY29tcGF0LmpzOy91bWJyYWNvX2NsaWVudC9FZGl0b3JzL0VkaXRTdHlsZVNoZWV0LmpzOy91bWJyYWNvX2NsaWVudC9Db2RlQXJlYS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9Db2RlQXJlYS9VbWJyYWNvRWRpdG9yLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LWZpZWxkc2VsZWN0aW9uLmpzOw" file="c:\users\devharis\documents\visual studio 2013\Projects\Insatsplutonen\Insatsplutonen\App_Data\TEMP\ClientDependency\1701438236_95894aba05e84a539c4a9804aaa787f0.cdJ" compression="gzip" version="1701438236">
+    <files>
+      <file name="/umbraco_client/CodeMirror/js/lib/codemirror.js" />
+      <file name="/umbraco_client/CodeMirror/js/mode/css/css.js" />
+      <file name="/umbraco_client/CodeMirror/js/lib/util/search.js" />
+      <file name="/umbraco_client/CodeMirror/js/lib/util/searchcursor.js" />
+      <file name="/umbraco_client/CodeMirror/js/lib/util/dialog.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco/lib/bootstrap/js/bootstrap.2.3.2.min.js" />
+      <file name="/umbraco/lib/umbraco/compat.js" />
+      <file name="/umbraco_client/Editors/EditStyleSheet.js" />
+      <file name="/umbraco_client/CodeArea/javascript.js" />
+      <file name="/umbraco_client/CodeArea/UmbracoEditor.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery-fieldselection.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0RpYWxvZ3MvQXNzaWduRG9tYWluMi5jc3M7L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7" file="c:\users\devharis\documents\visual studio 2013\Projects\Insatsplutonen\Insatsplutonen\App_Data\TEMP\ClientDependency\1701438236_fff393b99297445eb19f62cc7e8575e1.cdC" compression="gzip" version="1701438236">
+    <files>
+      <file name="/umbraco_client/Dialogs/AssignDomain2.css" />
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco_client/ui/default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L0RpYWxvZ3MvQXNzaWduRG9tYWluMi5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSlF1ZXJ5L2pxdWVyeS52YWxpZGF0ZS5taW4uanM7" file="c:\users\devharis\documents\visual studio 2013\Projects\Insatsplutonen\Insatsplutonen\App_Data\TEMP\ClientDependency\1701438236_f3f1f19a9199485f97d8d49406e49b66.cdJ" compression="gzip" version="1701438236">
+    <files>
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Dialogs/AssignDomain2.js" />
+      <file name="/umbraco_client/Application/JQuery/jquery.validate.min.js" />
+    </files>
+  </item>
+</map>

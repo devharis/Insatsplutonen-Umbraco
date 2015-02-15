@@ -1,0 +1,196 @@
+﻿2015-02-15 10:31:16,326 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2015-02-15 10:31:16,343 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 14ms)
+2015-02-15 10:31:16,353 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-02-15 10:31:16,548 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 36 (took 193ms)
+2015-02-15 10:31:16,606 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-02-15 10:31:16,611 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 5ms)
+2015-02-15 10:31:16,611 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-02-15 10:31:16,618 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 7ms)
+2015-02-15 10:31:16,636 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-02-15 10:31:16,638 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 4ms)
+2015-02-15 10:31:16,641 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-02-15 10:31:16,646 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 5ms)
+2015-02-15 10:31:16,676 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-02-15 10:31:16,681 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 5ms)
+2015-02-15 10:31:16,681 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-02-15 10:31:16,688 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 6ms)
+2015-02-15 10:31:17,658 [6] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2015-02-15 10:31:17,843 [6] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2015-02-15 10:31:18,126 [6] INFO  Umbraco.Web.UmbracoModule - [Thread 7] Setting OriginalRequestUrl: localhost:50444/umbraco
+2015-02-15 10:31:18,188 [6] INFO  umbraco.content - [Thread 7] Loading content from disk cache...
+2015-02-15 10:31:18,276 [6] INFO  Umbraco.Core.PluginManager - [Thread 7] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-02-15 10:31:18,283 [6] INFO  Umbraco.Core.PluginManager - [Thread 7] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 7ms)
+2015-02-15 10:31:18,678 [6] INFO  Umbraco.Core.PluginManager - [Thread 7] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2015-02-15 10:31:18,691 [6] INFO  Umbraco.Core.PluginManager - [Thread 7] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 44 (took 10ms)
+2015-02-15 10:31:20,746 [6] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 7] Couldn't find any page with nodeId=1078. This is most likely caused by the page not being published.
+2015-02-15 10:31:20,746 [6] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 7] Couldn't find any page with nodeId=1078. This is most likely caused by the page not being published.
+2015-02-15 10:31:20,748 [6] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 7] Couldn't find any page with nodeId=1079. This is most likely caused by the page not being published.
+2015-02-15 10:31:20,748 [6] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 7] Couldn't find any page with nodeId=1080. This is most likely caused by the page not being published.
+2015-02-15 10:31:47,412 [6] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 11] Couldn't find any page with nodeId=1078. This is most likely caused by the page not being published.
+2015-02-15 10:31:47,412 [6] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 11] Couldn't find any page with nodeId=1078. This is most likely caused by the page not being published.
+2015-02-15 10:31:47,412 [6] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 11] Couldn't find any page with nodeId=1079. This is most likely caused by the page not being published.
+2015-02-15 10:31:47,412 [6] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 11] Couldn't find any page with nodeId=1080. This is most likely caused by the page not being published.
+2015-02-15 10:32:22,438 [6] INFO  umbraco.BusinessLogic.Log - [Thread 7] Log scrubbed.  Removed all items older than 2014-12-17 10:32:22
+2015-02-15 10:33:26,092 [6] INFO  Umbraco.Web.Security.WebSecurity - [Thread 19] User Id: 0 logged in
+2015-02-15 10:33:26,193 [6] INFO  Umbraco.Core.PluginManager - [Thread 10] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-02-15 10:33:26,201 [6] INFO  Umbraco.Core.PluginManager - [Thread 10] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 7ms)
+2015-02-15 10:33:26,311 [6] INFO  Umbraco.Core.PluginManager - [Thread 12] Starting resolution types of umbraco.interfaces.IApplication
+2015-02-15 10:33:26,321 [6] INFO  Umbraco.Core.PluginManager - [Thread 12] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 11ms)
+2015-02-15 10:33:26,461 [6] INFO  Umbraco.Core.PluginManager - [Thread 19] Starting resolution types of umbraco.interfaces.ITree
+2015-02-15 10:33:26,496 [6] INFO  Umbraco.Core.PluginManager - [Thread 19] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 35ms)
+2015-02-15 10:33:26,514 [6] INFO  Umbraco.Core.PluginManager - [Thread 19] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-02-15 10:33:26,514 [6] INFO  Umbraco.Core.PluginManager - [Thread 19] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2015-02-15 10:33:26,514 [6] INFO  Umbraco.Core.PluginManager - [Thread 19] Starting resolution types of umbraco.interfaces.ITree
+2015-02-15 10:33:26,536 [6] INFO  Umbraco.Core.PluginManager - [Thread 19] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 21ms)
+2015-02-15 10:33:48,821 [6] INFO  umbraco.BusinessLogic.Log - [Thread 10] Log scrubbed.  Removed all items older than 2014-12-17 10:33:48
+2015-02-15 10:34:58,212 [6] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 9] Couldn't find any page with nodeId=1078. This is most likely caused by the page not being published.
+2015-02-15 10:34:58,212 [6] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 9] Couldn't find any page with nodeId=1078. This is most likely caused by the page not being published.
+2015-02-15 10:34:58,212 [6] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 9] Couldn't find any page with nodeId=1079. This is most likely caused by the page not being published.
+2015-02-15 10:34:58,212 [6] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 9] Couldn't find any page with nodeId=1080. This is most likely caused by the page not being published.
+2015-02-15 10:35:02,957 [6] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 21] Content 'Start' with Id '1073' has been published.
+2015-02-15 10:35:03,019 [6] INFO  Umbraco.Core.PluginManager - [Thread 21] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2015-02-15 10:35:03,035 [6] INFO  Umbraco.Core.PluginManager - [Thread 21] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 20 (took 9ms)
+2015-02-15 10:35:15,230 [6] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2014-12-17 10:35:15
+2015-02-15 10:36:41,641 [6] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2014-12-17 10:36:41
+2015-02-15 10:38:08,050 [6] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2014-12-17 10:38:08
+2015-02-15 10:39:34,455 [6] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2014-12-17 10:39:34
+2015-02-15 12:38:10,584 [6] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2014-12-17 12:38:10
+2015-02-15 12:39:17,230 [6] INFO  Umbraco.Web.Security.WebSecurity - [Thread 7] User Id: 0 logged in
+2015-02-15 12:39:30,735 [6] ERROR dashboardUtilities.FeedProxy - [Thread 20] Exception occurred
+System.Net.WebException: The remote name could not be resolved: 'umbraco.tv'
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at dashboardUtilities.FeedProxy.Page_Load(Object sender, EventArgs e)
+2015-02-15 12:39:37,003 [6] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2014-12-17 12:39:37
+2015-02-15 12:41:03,417 [6] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2014-12-17 12:41:03
+2015-02-15 12:42:29,829 [6] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2014-12-17 12:42:29
+2015-02-15 12:43:56,238 [6] INFO  umbraco.BusinessLogic.Log - [Thread 11] Log scrubbed.  Removed all items older than 2014-12-17 12:43:56
+2015-02-15 12:45:22,642 [6] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2014-12-17 12:45:22
+2015-02-15 12:45:46,515 [6] INFO  Umbraco.Core.PluginManager - [Thread 30] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-02-15 12:45:46,517 [6] INFO  Umbraco.Core.PluginManager - [Thread 30] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2015-02-15 12:46:26,591 [6] INFO  Umbraco.Core.PluginManager - [Thread 9] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-02-15 12:46:26,591 [6] INFO  Umbraco.Core.PluginManager - [Thread 9] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2015-02-15 12:46:49,051 [6] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2014-12-17 12:46:49
+2015-02-15 12:48:15,463 [6] INFO  umbraco.BusinessLogic.Log - [Thread 50] Log scrubbed.  Removed all items older than 2014-12-17 12:48:15
+2015-02-15 12:49:14,278 [6] INFO  Umbraco.Core.PluginManager - [Thread 51] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-02-15 12:49:14,278 [6] INFO  Umbraco.Core.PluginManager - [Thread 51] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2015-02-15 12:49:25,338 [6] ERROR dashboardUtilities.FeedProxy - [Thread 51] Exception occurred
+System.Net.WebException: The remote name could not be resolved: 'umbraco.tv'
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at dashboardUtilities.FeedProxy.Page_Load(Object sender, EventArgs e)
+2015-02-15 12:49:41,868 [6] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2014-12-17 12:49:41
+2015-02-15 12:50:26,090 [6] ERROR dashboardUtilities.FeedProxy - [Thread 17] Exception occurred
+System.Net.WebException: The remote name could not be resolved: 'umbraco.tv'
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at dashboardUtilities.FeedProxy.Page_Load(Object sender, EventArgs e)
+2015-02-15 12:51:08,292 [6] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2014-12-17 12:51:08
+2015-02-15 12:51:09,930 [6] ERROR dashboardUtilities.FeedProxy - [Thread 15] Exception occurred
+System.Net.WebException: The remote name could not be resolved: 'umbraco.tv'
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at dashboardUtilities.FeedProxy.Page_Load(Object sender, EventArgs e)
+2015-02-15 12:51:33,477 [6] ERROR dashboardUtilities.FeedProxy - [Thread 30] Exception occurred
+System.Net.WebException: The remote name could not be resolved: 'umbraco.tv'
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at dashboardUtilities.FeedProxy.Page_Load(Object sender, EventArgs e)
+2015-02-15 12:52:34,705 [6] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2014-12-17 12:52:34
+2015-02-15 12:54:01,122 [6] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2014-12-17 12:54:01
+2015-02-15 12:55:27,522 [6] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2014-12-17 12:55:27
+2015-02-15 12:56:53,928 [6] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2014-12-17 12:56:53
+2015-02-15 12:58:20,337 [6] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2014-12-17 12:58:20
+2015-02-15 12:59:46,754 [6] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2014-12-17 12:59:46
+2015-02-15 13:01:13,161 [6] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2014-12-17 13:01:13
+2015-02-15 13:02:39,561 [6] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2014-12-17 13:02:39
+2015-02-15 13:04:05,974 [6] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2014-12-17 13:04:05
+2015-02-15 13:05:32,380 [6] INFO  umbraco.BusinessLogic.Log - [Thread 54] Log scrubbed.  Removed all items older than 2014-12-17 13:05:32
+2015-02-15 13:06:58,792 [6] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2014-12-17 13:06:58
+2015-02-15 13:07:46,026 [6] ERROR dashboardUtilities.FeedProxy - [Thread 39] Exception occurred
+System.Net.WebException: The remote name could not be resolved: 'umbraco.tv'
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at dashboardUtilities.FeedProxy.Page_Load(Object sender, EventArgs e)
+2015-02-15 13:07:53,933 [6] ERROR dashboardUtilities.FeedProxy - [Thread 53] Exception occurred
+System.Net.WebException: The remote name could not be resolved: 'umbraco.tv'
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at dashboardUtilities.FeedProxy.Page_Load(Object sender, EventArgs e)
+2015-02-15 13:08:25,201 [6] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2014-12-17 13:08:25
+2015-02-15 13:09:51,607 [6] INFO  umbraco.BusinessLogic.Log - [Thread 65] Log scrubbed.  Removed all items older than 2014-12-17 13:09:51
+2015-02-15 13:11:18,031 [6] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2014-12-17 13:11:18
+2015-02-15 13:12:44,431 [6] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2014-12-17 13:12:44
+2015-02-15 13:14:10,839 [6] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2014-12-17 13:14:10
+2015-02-15 13:15:37,255 [6] INFO  umbraco.BusinessLogic.Log - [Thread 47] Log scrubbed.  Removed all items older than 2014-12-17 13:15:37
+2015-02-15 13:16:29,550 [6] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 17] Application shutdown. Reason: MaxRecompilationsReached
+2015-02-15 13:16:31,440 [34] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2015-02-15 13:16:31,458 [34] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 10ms)
+2015-02-15 13:16:31,465 [34] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-02-15 13:16:31,488 [34] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 36 (took 22ms)
+2015-02-15 13:16:31,595 [34] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-02-15 13:16:31,595 [34] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 1ms)
+2015-02-15 13:16:31,595 [34] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-02-15 13:16:31,598 [34] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 0ms)
+2015-02-15 13:16:31,615 [34] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-02-15 13:16:31,615 [34] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 1ms)
+2015-02-15 13:16:31,618 [34] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-02-15 13:16:31,620 [34] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 3ms)
+2015-02-15 13:16:31,665 [34] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-02-15 13:16:31,668 [34] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2015-02-15 13:16:31,668 [34] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-02-15 13:16:31,668 [34] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2015-02-15 13:16:32,558 [34] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2015-02-15 13:16:32,750 [34] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2015-02-15 13:16:33,240 [34] INFO  Umbraco.Web.UmbracoModule - [Thread 31] Setting OriginalRequestUrl: localhost:50444/umbraco
+2015-02-15 13:16:33,240 [34] INFO  Umbraco.Web.UmbracoModule - [Thread 42] Setting OriginalRequestUrl: localhost:50444/umbraco
+2015-02-15 13:16:33,383 [34] INFO  umbraco.content - [Thread 54] Loading content from disk cache...
+2015-02-15 13:16:33,500 [34] INFO  Umbraco.Core.PluginManager - [Thread 54] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-02-15 13:16:33,503 [34] INFO  Umbraco.Core.PluginManager - [Thread 54] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 1ms)
+2015-02-15 13:16:33,710 [34] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-02-15 13:16:33,713 [34] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 1ms)
+2015-02-15 13:16:33,715 [34] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of umbraco.interfaces.ITree
+2015-02-15 13:16:33,715 [34] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 0ms)
+2015-02-15 13:16:33,910 [34] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of umbraco.interfaces.ITree
+2015-02-15 13:16:33,913 [34] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 1ms)
+2015-02-15 13:16:33,963 [34] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of umbraco.interfaces.IApplication
+2015-02-15 13:16:33,963 [34] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 0ms)
+2015-02-15 13:16:33,970 [34] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2015-02-15 13:16:33,973 [34] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 20 (took 1ms)
+2015-02-15 13:16:34,043 [34] INFO  Umbraco.Core.PluginManager - [Thread 54] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2015-02-15 13:16:34,043 [34] INFO  Umbraco.Core.PluginManager - [Thread 54] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 44 (took 1ms)
+2015-02-15 13:17:34,077 [34] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2014-12-17 13:17:34
+2015-02-15 13:19:00,467 [34] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2014-12-17 13:19:00
+2015-02-15 13:20:26,873 [34] INFO  umbraco.BusinessLogic.Log - [Thread 60] Log scrubbed.  Removed all items older than 2014-12-17 13:20:26
+2015-02-15 13:21:53,288 [34] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2014-12-17 13:21:53
+2015-02-15 13:22:01,435 [34] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of umbraco.interfaces.IAction
+2015-02-15 13:22:01,488 [34] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of umbraco.interfaces.IAction, found 34 (took 40ms)
+2015-02-15 13:22:30,816 [34] ERROR dashboardUtilities.FeedProxy - [Thread 15] Exception occurred
+System.Net.WebException: The remote name could not be resolved: 'umbraco.tv'
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at dashboardUtilities.FeedProxy.Page_Load(Object sender, EventArgs e)
+2015-02-15 13:23:19,697 [34] INFO  umbraco.BusinessLogic.Log - [Thread 59] Log scrubbed.  Removed all items older than 2014-12-17 13:23:19
+2015-02-15 13:24:46,102 [34] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2014-12-17 13:24:46
+2015-02-15 13:25:01,221 [34] ERROR dashboardUtilities.FeedProxy - [Thread 22] Exception occurred
+System.Net.WebException: The remote name could not be resolved: 'umbraco.tv'
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at dashboardUtilities.FeedProxy.Page_Load(Object sender, EventArgs e)
+2015-02-15 13:26:12,512 [34] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2014-12-17 13:26:12
+2015-02-15 13:27:03,704 [34] ERROR dashboardUtilities.FeedProxy - [Thread 54] Exception occurred
+System.Net.WebException: The remote name could not be resolved: 'umbraco.tv'
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at dashboardUtilities.FeedProxy.Page_Load(Object sender, EventArgs e)
+2015-02-15 13:27:38,922 [34] INFO  umbraco.BusinessLogic.Log - [Thread 51] Log scrubbed.  Removed all items older than 2014-12-17 13:27:38
+2015-02-15 13:28:16,375 [34] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 65] Content 'Start' with Id '1073' has been published.
+2015-02-15 13:29:00,985 [34] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 26] Content 'Start' with Id '1073' has been published.
+2015-02-15 13:29:05,337 [34] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2014-12-17 13:29:05
+2015-02-15 13:29:55,940 [34] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 45] Content 'Start' with Id '1073' has been published.
+2015-02-15 13:30:31,748 [34] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2014-12-17 13:30:31
+2015-02-15 13:31:58,144 [34] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2014-12-17 13:31:58
+2015-02-15 13:32:02,789 [34] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 47] Content 'Start' with Id '1073' has been published.
+2015-02-15 13:33:24,554 [34] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2014-12-17 13:33:24
+2015-02-15 13:34:50,970 [34] INFO  umbraco.BusinessLogic.Log - [Thread 43] Log scrubbed.  Removed all items older than 2014-12-17 13:34:50
+2015-02-15 13:35:27,268 [34] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 36] Content 'Start' with Id '1073' has been published.
